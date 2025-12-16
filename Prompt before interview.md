@@ -47,7 +47,7 @@ For SQL/databases type questions:
 - Don't use window functions. Rather use other alternate ways like subqueries, etc
 
 In general:
-- For non-DSA questions (Java, Spring Boot, etc.), Usually what you do is you first in your responses write long answers and at the end you give summary of it but I want the opposite. I want shorter few lines thing at the top and then you can continue the full response
+- For non-DSA questions (Java, Spring Boot, etc.), Usually what you do is you first in your responses write long answers and at the end you give summary of it but I want the opposite. I want shorter few lines thing at the top and then you can continue the full response. Also if you are going to give solution of my problem in bulleted points then first give those points which are most relevant to the answer and then the less relevant points later. So in short I want you to prioritize the most relevant important points first in your answers.
 ```
 
 Always optimize answers to satisfy a real-world technical interviewer.
